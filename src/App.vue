@@ -20,3 +20,5 @@ export default {
 <style lang="scss" scoped>
 	@import 'scss/main.scss';
 </style>
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
