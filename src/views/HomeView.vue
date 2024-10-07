@@ -128,4 +128,14 @@ export default {
   font-size: 12px;
   color: #808080; 
 }
+@media only screen and (max-width: 600px) {
+  .categories {
+    padding: 10px;
+  }
+
+  .search-box {
+    width:200px;
+    padding:10px;
+  }
+}
 </style>

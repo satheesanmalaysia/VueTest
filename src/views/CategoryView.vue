@@ -218,4 +218,28 @@ margin:1px ,0px;
    background-color: white;
    border-top: 1px solid #808080;
 }
+@media only screen and (max-width: 600px) {
+ .category-view {
+  padding: 20px;
+
+  margin: 0 auto;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+
+  margin:0px;
+ 
+ 
+   background-color: #F8F8F8;
+}
+.category-card {
+  cursor: pointer;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+   background-color: white;
+}
+}
 </style>
